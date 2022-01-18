@@ -1,7 +1,7 @@
 {
-  "name": "Doge Bot",
+  "name": "x_pramaya_x Bot",
   "version": "2.0.0",
-  "description": "Xeon Bot Inc.",
+  "description": "x_pramaya_x Bot Inc.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Xeon",
+  "author": "x_pramaya_x",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
