@@ -1230,7 +1230,7 @@ ${z}🐶 ${prefix}downloadmenu${z}
 ${z}🐶 ${prefix}funmenu${z}
 ${z}🐶 ${prefix}nsfwmenu${z}
 ${z}🐶 ${prefix}animemenu${z}
-    watch how you can install this bot in your whatsapp: https://youtu.be/zXvwqA8LvTw
+     whatsapp: wa.me/+94770611075
 ┗━━━━━━━━━━━━━━━━━`
 buttons = [
 {buttonId:`scbot`, buttonText: {displayText: 'BOT SCRIPT🔖'}, type: 1},
